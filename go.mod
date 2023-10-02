@@ -1,3 +1,3 @@
-module github.com/ishidawataru/sctp
+module github.com/atayalan/sctp
 
 go 1.12
